@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stand_for_smartTV/static/css/main.65cec190.css",
+    "main.js": "/stand_for_smartTV/static/js/main.f643a5af.js",
+    "static/js/787.597c059d.chunk.js": "/stand_for_smartTV/static/js/787.597c059d.chunk.js",
+    "index.html": "/stand_for_smartTV/index.html",
+    "main.65cec190.css.map": "/stand_for_smartTV/static/css/main.65cec190.css.map",
+    "main.f643a5af.js.map": "/stand_for_smartTV/static/js/main.f643a5af.js.map",
+    "787.597c059d.chunk.js.map": "/stand_for_smartTV/static/js/787.597c059d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cec190.css",
+    "static/js/main.f643a5af.js"
+  ]
+}
